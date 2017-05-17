@@ -1,0 +1,10 @@
+{
+  "simulation": "computerdatabase.SomcLhp",
+  "simulationId": "somclhp",
+  "start": 1489928192682,
+  "description": "",
+  "scenarios": ["Scenario Name"],
+  "assertions": [
+
+  ]
+}
